@@ -1,0 +1,577 @@
+fileFormatVersion: 2
+guid: 82f55caddf3559f4ebda00b2362efe28
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: barrel_cylinder_low_0
+    100004: barrel_element_low_0
+    100006: barrel_low_0
+    100008: bolt_carrier_low_0
+    100010: element_rear_sight_low_0
+    100012: front_sight_big_cylinder_low_0
+    100014: front_sight_cylinder_low_0
+    100016: front_sight_low_0
+    100018: front_sight_needle_low_0
+    100020: gas_block_low_0
+    100022: gas_cylinder_low_0
+    100024: handguard_low_0
+    100026: handguard_upper_low_0
+    100028: handguardmetal_low_0
+    100030: magazine_catch_low_0
+    100032: magazine_low_0
+    100034: muzzlebreak_low_0
+    100036: pistolstock_low_0
+    100038: polySurface228_0
+    100040: polySurface229_0
+    100042: rear_sight_cylinder_low_0
+    100044: rear_sight_element_a_low_0
+    100046: rear_sight_element_b_low_0
+    100048: rear_sight_element_screw_low_0
+    100050: rear_sight_leaf_low_0
+    100052: rear_sight_low_0
+    100054: rear_sight_screw_low_0
+    100056: rear_sight_switch_knob_low_0
+    100058: rear_sight_switch_low_0
+    100060: receiver_low_0
+    100062: receiver_screws_low_0
+    100064: safetyswitch_low_0
+    100066: safetyswitchscrew_low_0
+    100068: spring_low_0
+    100070: stock_element_low_0
+    100072: stock_low_0
+    100074: stock_screws_low_0
+    100076: swivel_low_0
+    100078: sylinder_low_0
+    100080: trigger_low_0
+    100082: triggerguard_low_0
+    100084: triggerguard_screws_low_0
+    100086: triggerguard_upper_low_0
+    100088: upperreceiver_low_0
+    400000: //RootNode
+    400002: barrel_cylinder_low_0
+    400004: barrel_element_low_0
+    400006: barrel_low_0
+    400008: bolt_carrier_low_0
+    400010: element_rear_sight_low_0
+    400012: front_sight_big_cylinder_low_0
+    400014: front_sight_cylinder_low_0
+    400016: front_sight_low_0
+    400018: front_sight_needle_low_0
+    400020: gas_block_low_0
+    400022: gas_cylinder_low_0
+    400024: handguard_low_0
+    400026: handguard_upper_low_0
+    400028: handguardmetal_low_0
+    400030: magazine_catch_low_0
+    400032: magazine_low_0
+    400034: muzzlebreak_low_0
+    400036: pistolstock_low_0
+    400038: polySurface228_0
+    400040: polySurface229_0
+    400042: rear_sight_cylinder_low_0
+    400044: rear_sight_element_a_low_0
+    400046: rear_sight_element_b_low_0
+    400048: rear_sight_element_screw_low_0
+    400050: rear_sight_leaf_low_0
+    400052: rear_sight_low_0
+    400054: rear_sight_screw_low_0
+    400056: rear_sight_switch_knob_low_0
+    400058: rear_sight_switch_low_0
+    400060: receiver_low_0
+    400062: receiver_screws_low_0
+    400064: safetyswitch_low_0
+    400066: safetyswitchscrew_low_0
+    400068: spring_low_0
+    400070: stock_element_low_0
+    400072: stock_low_0
+    400074: stock_screws_low_0
+    400076: swivel_low_0
+    400078: sylinder_low_0
+    400080: trigger_low_0
+    400082: triggerguard_low_0
+    400084: triggerguard_screws_low_0
+    400086: triggerguard_upper_low_0
+    400088: upperreceiver_low_0
+    2100000: barrel_cylinder_low_0Mat
+    2100002: barrel_element_low_0Mat
+    2100004: barrel_low_0Mat
+    2100006: bolt_carrier_low_0Mat
+    2100008: element_rear_sight_low_0Mat
+    2100010: front_sight_big_cylinder_low_0Mat
+    2100012: front_sight_cylinder_low_0Mat
+    2100014: front_sight_low_0Mat
+    2100016: front_sight_needle_low_0Mat
+    2100018: gas_block_low_0Mat
+    2100020: gas_cylinder_low_0Mat
+    2100022: handguard_low_0Mat
+    2100024: handguard_upper_low_0Mat
+    2100026: handguardmetal_low_0Mat
+    2100028: magazine_catch_low_0Mat
+    2100030: magazine_low_0Mat
+    2100032: muzzlebreak_low_0Mat
+    2100034: pistolstock_low_0Mat
+    2100036: polySurface228_0Mat
+    2100038: polySurface229_0Mat
+    2100040: rear_sight_cylinder_low_0Mat
+    2100042: rear_sight_element_a_low_0Mat
+    2100044: rear_sight_element_b_low_0Mat
+    2100046: rear_sight_element_screw_low_0Mat
+    2100048: rear_sight_leaf_low_0Mat
+    2100050: rear_sight_low_0Mat
+    2100052: rear_sight_screw_low_0Mat
+    2100054: rear_sight_switch_knob_low_0Mat
+    2100056: rear_sight_switch_low_0Mat
+    2100058: receiver_low_0Mat
+    2100060: receiver_screws_low_0Mat
+    2100062: safetyswitch_low_0Mat
+    2100064: safetyswitchscrew_low_0Mat
+    2100066: spring_low_0Mat
+    2100068: stock_element_low_0Mat
+    2100070: stock_low_0Mat
+    2100072: stock_screws_low_0Mat
+    2100074: swivel_low_0Mat
+    2100076: sylinder_low_0Mat
+    2100078: trigger_low_0Mat
+    2100080: triggerguard_low_0Mat
+    2100082: triggerguard_screws_low_0Mat
+    2100084: triggerguard_upper_low_0Mat
+    2100086: upperreceiver_low_0Mat
+    2300000: barrel_cylinder_low_0
+    2300002: barrel_element_low_0
+    2300004: barrel_low_0
+    2300006: bolt_carrier_low_0
+    2300008: element_rear_sight_low_0
+    2300010: front_sight_big_cylinder_low_0
+    2300012: front_sight_cylinder_low_0
+    2300014: front_sight_low_0
+    2300016: front_sight_needle_low_0
+    2300018: gas_block_low_0
+    2300020: gas_cylinder_low_0
+    2300022: handguard_low_0
+    2300024: handguard_upper_low_0
+    2300026: handguardmetal_low_0
+    2300028: magazine_catch_low_0
+    2300030: magazine_low_0
+    2300032: muzzlebreak_low_0
+    2300034: pistolstock_low_0
+    2300036: polySurface228_0
+    2300038: polySurface229_0
+    2300040: rear_sight_cylinder_low_0
+    2300042: rear_sight_element_a_low_0
+    2300044: rear_sight_element_b_low_0
+    2300046: rear_sight_element_screw_low_0
+    2300048: rear_sight_leaf_low_0
+    2300050: rear_sight_low_0
+    2300052: rear_sight_screw_low_0
+    2300054: rear_sight_switch_knob_low_0
+    2300056: rear_sight_switch_low_0
+    2300058: receiver_low_0
+    2300060: receiver_screws_low_0
+    2300062: safetyswitch_low_0
+    2300064: safetyswitchscrew_low_0
+    2300066: spring_low_0
+    2300068: stock_element_low_0
+    2300070: stock_low_0
+    2300072: stock_screws_low_0
+    2300074: swivel_low_0
+    2300076: sylinder_low_0
+    2300078: trigger_low_0
+    2300080: triggerguard_low_0
+    2300082: triggerguard_screws_low_0
+    2300084: triggerguard_upper_low_0
+    2300086: upperreceiver_low_0
+    3300000: barrel_cylinder_low_0
+    3300002: barrel_element_low_0
+    3300004: barrel_low_0
+    3300006: bolt_carrier_low_0
+    3300008: element_rear_sight_low_0
+    3300010: front_sight_big_cylinder_low_0
+    3300012: front_sight_cylinder_low_0
+    3300014: front_sight_low_0
+    3300016: front_sight_needle_low_0
+    3300018: gas_block_low_0
+    3300020: gas_cylinder_low_0
+    3300022: handguard_low_0
+    3300024: handguard_upper_low_0
+    3300026: handguardmetal_low_0
+    3300028: magazine_catch_low_0
+    3300030: magazine_low_0
+    3300032: muzzlebreak_low_0
+    3300034: pistolstock_low_0
+    3300036: polySurface228_0
+    3300038: polySurface229_0
+    3300040: rear_sight_cylinder_low_0
+    3300042: rear_sight_element_a_low_0
+    3300044: rear_sight_element_b_low_0
+    3300046: rear_sight_element_screw_low_0
+    3300048: rear_sight_leaf_low_0
+    3300050: rear_sight_low_0
+    3300052: rear_sight_screw_low_0
+    3300054: rear_sight_switch_knob_low_0
+    3300056: rear_sight_switch_low_0
+    3300058: receiver_low_0
+    3300060: receiver_screws_low_0
+    3300062: safetyswitch_low_0
+    3300064: safetyswitchscrew_low_0
+    3300066: spring_low_0
+    3300068: stock_element_low_0
+    3300070: stock_low_0
+    3300072: stock_screws_low_0
+    3300074: swivel_low_0
+    3300076: sylinder_low_0
+    3300078: trigger_low_0
+    3300080: triggerguard_low_0
+    3300082: triggerguard_screws_low_0
+    3300084: triggerguard_upper_low_0
+    3300086: upperreceiver_low_0
+    4300000: barrel_cylinder_low_0
+    4300002: barrel_element_low_0
+    4300004: barrel_low_0
+    4300006: bolt_carrier_low_0
+    4300008: element_rear_sight_low_0
+    4300010: front_sight_big_cylinder_low_0
+    4300012: front_sight_cylinder_low_0
+    4300014: front_sight_low_0
+    4300016: front_sight_needle_low_0
+    4300018: gas_block_low_0
+    4300020: gas_cylinder_low_0
+    4300022: handguard_low_0
+    4300024: handguard_upper_low_0
+    4300026: handguardmetal_low_0
+    4300028: magazine_catch_low_0
+    4300030: magazine_low_0
+    4300032: muzzlebreak_low_0
+    4300034: pistolstock_low_0
+    4300036: polySurface228_0
+    4300038: polySurface229_0
+    4300040: rear_sight_cylinder_low_0
+    4300042: rear_sight_element_a_low_0
+    4300044: rear_sight_element_b_low_0
+    4300046: rear_sight_element_screw_low_0
+    4300048: rear_sight_leaf_low_0
+    4300050: rear_sight_low_0
+    4300052: rear_sight_screw_low_0
+    4300054: rear_sight_switch_knob_low_0
+    4300056: rear_sight_switch_low_0
+    4300058: receiver_low_0
+    4300060: receiver_screws_low_0
+    4300062: safetyswitch_low_0
+    4300064: safetyswitchscrew_low_0
+    4300066: spring_low_0
+    4300068: stock_element_low_0
+    4300070: stock_low_0
+    4300072: stock_screws_low_0
+    4300074: swivel_low_0
+    4300076: sylinder_low_0
+    4300078: trigger_low_0
+    4300080: triggerguard_low_0
+    4300082: triggerguard_screws_low_0
+    4300084: triggerguard_upper_low_0
+    4300086: upperreceiver_low_0
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: barrel_cylinder_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: barrel_element_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: barrel_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bolt_carrier_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: element_rear_sight_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: front_sight_big_cylinder_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: front_sight_cylinder_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: front_sight_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: front_sight_needle_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas_block_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas_cylinder_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: handguard_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: handguard_upper_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: handguardmetal_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: magazine_catch_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: magazine_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: muzzlebreak_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pistolstock_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface228_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface229_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rear_sight_cylinder_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rear_sight_element_a_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rear_sight_element_b_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rear_sight_element_screw_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rear_sight_leaf_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rear_sight_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rear_sight_screw_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rear_sight_switch_knob_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rear_sight_switch_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: receiver_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: receiver_screws_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: safetyswitch_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: safetyswitchscrew_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spring_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stock_element_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stock_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stock_screws_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swivel_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sylinder_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trigger_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: triggerguard_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: triggerguard_screws_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: triggerguard_upper_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: upperreceiver_low_0Mat
+    second: {fileID: 2100000, guid: f442ea589ab2f3840bd2a1e014c45c77, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
