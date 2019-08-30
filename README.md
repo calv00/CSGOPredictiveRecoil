@@ -27,7 +27,7 @@ _Disclaimer: I do not claim any rights on the models and their animations, I onl
 - _Diana PNG_: [PNGImage](https://pngimage.net/diana-png-1/)
 - _Crosshair PNG_: [UI-EX](https://ui-ex.com/explore/transparent-crosshair/)
 - _Recoil PNG_ (Extracted from GIF): [Steam Community](https://steamcommunity.com/sharedfiles/filedetails/?id=243468228)
-- _AK-47 Fire Sound_: [Gamebanana XRAY CS:S](New AK47 Fire Sound - 2 - https://gamebanana.com/sounds/28368)
+- _AK-47 Fire Sound_: [Gamebanana XRAY CS:S](https://gamebanana.com/sounds/28368)
 - _AK-47 Reload Sound_: [freesound "1911 Reload" by nioczkus](https://freesound.org/people/nioczkus/sounds/396331/)
 - _Gunshot Muzzle Flash_: [World Of Cliparts PNG Library](http://world-of-cliparts.com/png/muzzle-flash-gunshot-bocacha-bullet.html)
 - _Gun Hole_: [StickPNG](https://www.stickpng.com/img/nature/fire/small-muzzle-flash)
@@ -38,7 +38,7 @@ _Disclaimer: I do not claim any rights on the models and their animations, I onl
 - _PingMap particle effect_: [Ripple Effects](https://www.youtube.com/watch?v=byxivSC1xYM)
 - _Custom mouse cursors_: [HOW TO CUSTOMIZE YOUR MOUSE CURSOR](https://www.youtube.com/watch?v=cCKlMAwvQcI)
 
-- _FPS1.16 Gun Recoil. Unity3D FPS Game Design Tutorial._: [Mater Indie- https://www.youtube.com/watch?v=GwgYt3EzRV0)
+- _FPS1.16 Gun Recoil. Unity3D FPS Game Design Tutorial._: [Mater Indie](https://www.youtube.com/watch?v=GwgYt3EzRV0)
 - _Unity Forum_: [Simple Recoil Script](https://forum.unity.com/threads/simple-weapon-recoil-script.70271/)
 - _Steam Community CS:GO_: [Recoil Mechanics](https://steamcommunity.com/sharedfiles/filedetails/?id=243468228)
 - _Math is fun_: [Finding an Angle in a Right Angle](https://www.mathsisfun.com/algebra/trig-finding-angle-right-triangle.html)
